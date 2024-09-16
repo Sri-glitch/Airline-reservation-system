@@ -1,1 +1,2 @@
-# Airline-reservation-system
+# Airline
+This is a fullstack project
